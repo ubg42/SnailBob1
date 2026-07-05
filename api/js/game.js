@@ -1,0 +1,1 @@
+No Content: http://cdn.gameplayer.io/api/js/game.js
